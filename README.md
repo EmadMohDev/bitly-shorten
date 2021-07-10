@@ -1,7 +1,5 @@
-# bitly-shorten
-Shorten long urls by using Bitly Api
-
 # Laravel Bitly Shortner Package
+Shorten long urls by using Bitly Api
 
 
 ## INSTALLATION
@@ -12,17 +10,12 @@ Install the package through [Composer](http://getcomposer.org/).
 
 ## CONFIGURATION
 
-Optional configuration file (useful if you plan to have full control)
+to make your own token to can use bitly api
 
 ```php
 php artisan vendor:publish --tag="bitlyconfig"
 ```
 
-## HOW TO USE
-
--   [Quick Usage](#quick)
--   [Credits](#credits)
--   [License](#license)
 
 ## Quick Usage
 
