@@ -3,6 +3,7 @@
     "description": "Shorten long urls by using Bitly Api",
     "type": "library",
     "minimum-stability": "dev",
+    "license": "MIT" ,
     "require": {} ,
     "authors": [
         {
