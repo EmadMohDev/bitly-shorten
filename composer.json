@@ -22,10 +22,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Emadmohdev\\BitlyShorten\\BitlyServiceProvider"
+                "EmadMohDev\\BitlyShorten\\BitlyServiceProvider"
             ],
             "aliases": {
-                "Bitly": "Emadmohdev\\BitlyShorten\\Bitly"
+                "Bitly": "EmadMohDev\\BitlyShorten\\Bitly"
             }
         }
     }
